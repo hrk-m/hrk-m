@@ -26,11 +26,14 @@ Here are some ideas to get you started:
 
 
 <p align="left">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrk-m&theme=github&exclude=">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrk-m&theme=github&exclude=" />
+  </a>
+
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrk-m&theme=github&exclude=">
     <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrk-m&theme=github&exclude=" />
   </a>
-  
-  
+    
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrk-m&theme=github&exclude=">
     <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrk-m&theme=github&exclude=" />
   </a>
