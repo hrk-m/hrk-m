@@ -25,6 +25,35 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="left">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrk-m&theme=github&exclude=">
+    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrk-m&theme=github&exclude=" />
+  </a>
+  
+  
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrk-m&theme=github&exclude=">
+    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrk-m&theme=github&exclude=" />
+  </a>
+ 
+  <a href="https://raw.githubusercontent.com/hrk-m/hrk-m/main/profile-summary-card-output/github/2-most-commit-language.svg">
+    <img height="200" src="https://raw.githubusercontent.com/hrk-m/hrk-m/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  </a>
+  
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrk-m&theme=github">
+    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrk-m&theme=github" />
+  </a>
+
+  
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrk-m&theme=github&utcOffset=9">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrk-m&theme=github&utcOffset=9" />
+  </a>
+ 
+  <a href="https://raw.githubusercontent.com/hrk-m/hrk-m/main/profile-summary-card-output/github/4-productive-time.svg">
+    <img height="200" src="https://raw.githubusercontent.com/hrk-m/hrk-m/main/profile-summary-card-output/github/4-productive-time.svg" />
+  </a>
+</p>
+
+
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/WCFN6PZ" target="_blank" rel="noopener noreferrer"><img alt="WCFN6PZのLAPRASでのスコアは次の通りです: エンジニアリング: 3.39 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 2.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.39&b=3.36&i=2.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 9/30/2025, 9:47:08 AM</p>
