@@ -22,6 +22,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/hrk-m">
     <img height="20" src="https://img.shields.io/github/followers/hrk-m?label=follow&logo=github&style=flat" />
   </a>
+  <a href="http://qiita.com/hrk-m">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hrk-m/posts.svg" />
+  </a>
+  <a href="http://qiita.com/hrk-m">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hrk-m/contributions.svg" />
+  </a>
 </p>
 
 
